@@ -1,0 +1,40 @@
+bm_great_tribulation = {
+	name = "OTTO_THE_FIRST_ERA"
+	desc = "OTTO_THE_FIRST_ERA_INFO"
+	date = 2517.1.1
+
+	era = yes
+	custom_start = yes
+	picture = GFX_pick_era_image_6
+
+	selectable_character = {
+		id = 1 # Arturia
+		age = 25
+		title = c_cornwall
+		title_name = c_cornwall
+		name = era_char_name_1282
+
+		character = {
+			dna = rcrfdblvsvv
+			properties = aj000a00000000000000000000000000000000
+			religion = catholic
+			culture = english
+			government = feudal_government
+			dynasty = 0
+		}
+	}
+
+	# selectable_character = { }
+
+	# selectable_character = { }
+
+	# selectable_character = { }
+
+	# selectable_character = { }
+
+	# selectable_character = { }
+
+	### These are not shown unless the player is viewing custom bookmarks
+
+	# selectable_character = { }
+}
