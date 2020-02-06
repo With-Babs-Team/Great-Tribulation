@@ -1,0 +1,26 @@
+d_bukovina = {
+			color = { 128 133 104 }
+			color2={ 255 255 255 }
+			
+			capital = 419 # Polotsk
+			
+			
+			c_oldenburg = {
+				color={ 125 14 14 }
+				color2={ 255 255 255 }
+				
+				b_jever = {
+				}
+				b_delmenhorst = {
+				}
+				b_kniphausen = {
+				}
+				b_nordenham = {
+				}
+				b_loningen = {
+				}
+				b_varel = {
+				}
+			}
+		}
+		
