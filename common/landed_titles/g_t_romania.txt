@@ -1,0 +1,625 @@
+e_romania = {
+	color={ 210 115 35 }
+	color2={ 255 255 255 }
+	
+	k_moldavia = {
+	color={ 8 119 114 }
+	color2={ 255 255 255 }
+	
+	d_besarabia = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+			
+			capital = 545 # Torki
+			
+			volhynian = "Tivertsians"
+
+			c_iasi = {
+				color={ 203 222 145 }
+				color2={ 255 255 255 }
+				
+				b_iasi = {
+				}
+				b_harlau = {
+				}
+				b_hotin = {
+				}
+				b_cernauti = {
+				}
+				b_dorohoi = {
+				}
+				b_varzaresti = {
+				}
+				b_ungheni = {
+				}
+			}
+			c_peresechen = {
+				color={ 225 204 147 }
+				color2={ 255 255 255 }
+			
+				b_soroca = {
+				}
+				b_orhei = {			
+				}
+				b_butuceni = {
+				}
+				b_balti = {
+				}
+				b_tuzara = {
+				}
+				b_falesti = {
+				}
+				b_rautu = {
+				}
+			}
+			
+			c_chilia = {
+				color={ 210 212 145 }
+				color2={ 255 255 255 }
+				
+				b_chilia = {
+				}
+				b_oblucita = {
+				}
+				b_tigheci = {
+				}
+				b_reni_ro = {
+				}
+				b_cahul = {
+				}
+				b_lisky = {
+				}
+				b_palada = {
+				}
+			}
+				c_belgorod = {
+				color={ 231 210 153 }
+				color2={ 255 255 255 }
+			
+				b_cetatea_alba = {
+				}
+				b_belgorod = {
+				}
+				b_tighina = {
+				}
+				b_capriana = {
+				}
+				b_chisinau = {
+				}
+				b_causeni = {
+				}
+				b_cedaesti = {
+				}
+			}
+		}
+		
+		d_moldavia = {
+			color={ 190 202 175 }
+			color2={ 255 255 255 }
+			
+			capital = 1640 # Chilia
+			
+			pecheneg = "Pecheneg"
+			
+				c_bacau = {
+				color={ 207 226 166 }
+				color2={ 255 255 255 }
+				
+				b_bacau = {
+				}
+				b_targu_neamnt = {
+				}
+				b_neamnt = {
+				}
+				b_targu_trotus = {
+				}
+				b_bodesti = {
+				}
+				b_tazlau = {
+				}
+				b_bistrita_bacau = {
+				}
+			}
+			
+				c_torki = {				#Suceava since HF
+				color={ 227 206 149 }
+				color2={ 255 255 255 }
+			
+				b_suceava = {
+				}
+				b_radauti = {
+				}
+				b_bogdana = {
+				}
+				b_baia = {
+				}
+				b_moldovita = {
+				}
+				b_siret = {
+				}
+				b_putna = {
+				} 
+			}
+					
+			c_galaz = {
+				color={ 240 202 135 }
+				color2={ 255 255 255 }
+				
+				b_galaz = {
+				}
+				b_falciu = {
+				}
+				b_husi = {
+				}
+				b_oancea = {
+				}
+				b_beresti = {
+				}
+				b_targu_bujor = {
+				}
+				b_murgeni = {
+				}
+			}
+			c_birlad = {
+				color={ 233 212 155 }
+				color2={ 255 255 255 }
+
+				holy_site = slavic_pagan
+				holy_site = slavic_pagan_reformed
+				
+				b_barlad = {
+				}
+				b_tecuci = {
+				}
+				b_focsani = {
+				}
+				b_adjud = {
+				}
+				b_craciuna = {
+				}
+				b_targu_putnei = {
+				}
+				b_marasesti = {
+				}
+			}
+		}	
+		
+	d_bukovina = {
+			color = { 182 148 128 }
+			color2={ 255 255 255 }
+			capital = 419 # Polotsk
+			c_oldenburg = {
+				color={ 125 14 14 }
+				color2={ 255 255 255 }	
+			b_jever = {
+			}
+			b_delmenhorst = {
+			}
+			b_kniphausen = {
+			}
+			b_nordenham = {
+			}
+			b_loningen = {
+			}
+			b_varel = {
+			}
+		}
+	}		
+	}
+	k_dacia = {
+		color={ 220 132 40 }
+		color2={ 255 255 255 }
+		
+		culture = romanian
+		
+		capital = 515 # Tirgoviste
+		
+		allow = {
+			hidden_tooltip = {
+				OR = {
+					ai = no
+					culture = romanian
+				}
+			}
+		}
+		
+		d_wallachia = {		#Muntenia
+			color={ 238 192 69 }
+			color2={ 255 255 255 }
+			
+			capital = 515 # Tirgoviste
+			
+			c_tirgoviste = {
+				color={ 244 198 75 }
+				color2={ 255 255 255 }
+			
+				b_targoviste = {
+				}
+				b_tabla_butii = {
+				}
+				b_snagov = {
+				}
+				b_bucov = {
+				}
+				b_ramnicu_sarat = {
+				}
+				b_buzau = {
+				}
+				b_valeni = {
+				}
+			}
+			c_turnu = {
+				color={ 241 195 72 }
+				color2={ 255 255 255 }
+			
+				b_turnu = {
+				}
+				b_giurgiu = {
+				}
+				b_comana = {
+				}
+				b_zimnicea = {
+				}
+				b_bucuresti = {
+				}
+				b_rosiorriidevede = {
+				}
+				b_glavacioc = {
+				}
+			}
+			c_campulung = {
+				color={ 248 182 69 }
+				color2={ 255 255 255 }
+				
+				b_campulung = {
+				}
+				b_arges = {
+				}
+				b_pitesti = {
+				}
+				b_bran = {
+				}
+				b_bovora = {
+				}
+				b_cozla = {
+				}
+				b_mioveni = {
+				}
+			}
+			c_calarasi = {
+				color={ 238 212 80 }
+				color2={ 255 255 255 }
+				
+				b_calarasi = {
+				}
+				b_coconi = {
+				}
+				b_cornatei = {
+				}
+				b_floci = {
+				}
+				b_oltenita = {
+				}
+				b_slobozia = {
+				}
+				b_fetesti = {
+				}
+			}			
+		}
+		
+		d_oltenia = {
+			color={ 238 150 50 }
+			color2={ 255 255 255 }
+			
+			capital = 1643 # Craiova
+			
+			c_craiova = {
+				color={ 248 166 66 }
+				color2={ 255 255 255 }
+				
+				b_craiova = {
+				}
+				b_corabia = {
+				}
+				b_caracal = {
+				}
+				b_calafat = {
+				}
+				b_slatina = {
+				}
+				b_resita = {
+				}
+				b_hotarani = {
+				}
+			}
+			c_targu_jiu = {
+				color={ 211 170 77 }
+				color2={ 255 255 255 }
+				
+				b_targu_jiu = {
+				}
+				b_bistrita = {
+				}
+				b_baia_de_arama = {
+				}
+				b_polovragi = {
+				}
+				b_visina = {
+				}
+				b_tismana = {
+				}
+				b_vulcan = {
+				}
+			}
+			c_severin = {
+				color={ 247 201 78 }
+				color2={ 255 255 255 }
+			
+				b_severin = {
+				}
+				b_mehadia = {
+				}
+				b_orsova = {
+				}
+				b_drobeta = {
+				}
+				b_caransebes = {
+				}
+				b_gradet = {
+				}
+				b_vodita = {
+				}
+			}
+		}
+	}
+	
+		k_transylvania = {
+		color={ 220 132 40 }
+		color2={ 255 255 255 }
+
+		d_transylvania = {
+			color={ 255 150 150 }
+			color2={ 255 255 255 }
+			
+			capital = 519 # Feher
+			
+			c_szekelyfold = {
+				color={ 237 54 54 }
+				color2={ 255 255 255 }
+
+				german = Szeklerland
+				bohemian = Sikulsko
+				slovieni = Sikulsko
+				hungarian = Szйkelyfold
+				
+				b_csik = {
+				}
+				b_aranyos = {
+				}
+				b_haromszek = {
+				}
+				b_maros = {
+				}
+				b_kezdi = {
+				}
+				b_szekelyudvarhely = {
+				}
+				b_sepsiszentgyorgy = {
+				}
+				b_marosvasarhely = {
+				}
+			}
+			c_bihar = {
+				color={ 241 58 58 }
+				color2={ 255 255 255 }
+				
+				romanian = Bihor
+				german = Bihar
+				bohemian = Biharsko
+				slovieni = Biharsko
+				
+				b_bihar = {
+				}
+				b_nagyvarad = {
+				}
+				b_debrecen = {
+				}
+				b_biharkeresztes = {
+				}
+				b_nagybajom = {
+				}
+				b_szalard = {
+				}
+				b_zolonta = {
+				}
+				b_elesd = {
+				}
+			}
+			c_feher = {
+				color={ 245 62 62 }
+				color2={ 255 255 255 }
+
+				german = Unterweissenburg
+				
+				b_feher = {
+				}
+				b_arad = {
+				}
+				b_gyulafehervar = {
+					romanian = Balgrad
+					german = Karlsburg
+				}
+				b_elek = {
+				}
+				b_abrudbanya = {
+				}
+				b_nagyenyed = {
+					romanian = Aiud
+				}
+				b_vizakna = {
+				}
+				b_tovis = {
+				}
+			}
+			c_csanad = {
+				color={ 179 70 70 }
+				color2={ 255 255 255 }
+				
+				german = Tschanad
+				slovieni = Canбd
+				bohemian = Canбd
+				hungarian = Csanбd
+
+				b_csanad = {
+				}
+				b_szeged = {
+				}
+				b_mako = {
+				}
+				b_battonya = {
+				}
+				b_csongrad = {
+				}
+				b_mindszent = {
+				}
+				b_szentes = {
+				}
+				b_hodmezovasarhely = {
+				}
+			}
+		}	
+		
+		d_krishana = {
+		color={ 255 150 150 }
+		color2={ 255 255 255 }
+		
+			c_heves = {
+				color={ 173 64 64 }
+				color2={ 255 255 255 }
+				
+				german = Hewesch
+				slovieni = Heveљ
+				bohemian = Heveљ
+				hungarian = Heves
+
+				b_heves = { 
+					german = Hewesch
+					slovieni = Heveљ
+					bohemian = Heveљ
+					hungarian = Heves
+				}
+				b_eger = { 
+					slovieni = Jбger
+					german = Erlau
+				}
+				b_gyongyos = {
+					german = Gengess
+				}
+				b_miskolc = { 
+					slovieni = Miљkovec
+					german = Mischkolz
+				}
+				b_petervasara = {
+				}
+				b_hatvan = {
+				}
+				b_tiszafured = {
+				}
+				b_mezokovesd = {
+				}
+			}
+			c_abauj = {
+				color={ 162 21 21 }
+				color2={ 255 255 255 }
+
+				german = Neuburg
+				bohemian = Abov
+				slovieni = Abov
+				hungarian = Abauj
+				
+				b_abauj = { 
+					german = Neuburg
+					bohemian = Abov
+					slovieni = Abov
+					hungarian = Abauj
+				}
+				b_satoraljaujhely = { 
+					slovieni = "Novй Mesto pod Љiatrom"
+					bohemian = "Novй Mesto pod Љiatrom"
+				}
+				b_kassa = { 
+					slovieni = Koљice
+					bohemian = Koљice
+					polish = Koszyce
+					hungarian = Kassa
+					german = Kaschau
+					croatian = Kaљava
+				}
+				b_szikszo = { 
+					slovieni = Siksov
+					bohemian = Siksov
+				}
+				b_turna = { 
+					slovieni = Turna
+					bohemian = Turna
+					german = Tornau
+					hungarian = Torna
+				}
+				b_szepsi = { 
+					slovieni = Moldava
+					bohemian = Moldava
+					hungarian = Szepsi
+					german = Sepschi
+				}
+				b_sarospatak = { 
+					slovieni = Trebiљov
+					bohemian = Trebiљov
+					german = Trebischau
+					hungarian = Toketerebes
+				}
+				b_tokaj = { 
+					slovieni = Tokaj
+					bohemian = Tokaj
+				}
+			}
+		}	
+
+		d_maramuresch = {
+		color={ 255 150 150 }
+		color2={ 255 255 255 }
+			c_marmaros = {
+				color={ 164 23 23 }
+				color2={ 255 255 255 }
+				
+				german = Maramuresch
+				bohemian = Marmaroљ
+				slovieni = Marmaroљ
+				hungarian = Mбramaros
+				
+				b_maramarossziget = { 
+					slovieni = "Marmaroљskб Sihot"
+					german = Marmaroschsiget
+				}
+				b_nagybanya = { 
+					slovieni = "Velkб Bana"
+					german = Neustadt
+				}
+				b_nagykaroly = { 
+					slovieni = Carei
+				}
+				b_huszt = { 
+					slovieni = Chust
+				}
+				b_aknasugatag = {
+				}
+				b_tecso = {
+				}
+				b_raho = { 
+					slovieni = Rachiv
+				}
+				b_felsoviso = {
+				}
+			}
+		}
+	}
+}

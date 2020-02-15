@@ -1,0 +1,744 @@
+	e_baltika = {
+	color={ 223 202 145 }
+	color2={ 255 255 255 }
+	
+	k_pskov = {
+	color={ 8 119 114 }
+	color2={ 255 255 255 }	
+	
+	d_pskov = {
+			color = { 136 166 140 }
+			color2={ 255 215 0 }
+			
+			c_toropets = {
+				color={ 157 173 113 }
+				color2={ 255 255 255 }
+				
+				b_toropets = {
+				}
+				b_demyansk = {
+				}
+				b_andreapol = {
+				}
+				b_zhizhitsa = {
+				}
+				b_chistoye = {
+				}
+				b_ploskosh = {
+				}
+				b_okhvat = {
+				}
+			}	
+			c_pskov = {
+				color={ 151 167 107 }
+				color2={ 255 255 255 }
+				
+				german = "Pleskau"
+						
+				b_pskov = {
+				}
+				b_ostrov = {
+				}
+				b_golubovo = {
+				}
+				b_porkhov = {
+				}
+				b_khilovo = {
+				}
+				b_dedovichi = {
+				}
+				b_goristo = {
+				}
+			}
+			c_velikiye_luki = {
+				color={ 154 170 110 }
+				color2={ 255 255 255 }
+						
+				b_velikiyeluki = {
+				}
+				b_sebezh = {
+				}
+				b_nevel = {
+				}
+				b_bely = {
+				}
+				b_usvyaty = {
+				}
+				b_loknya = {
+				}
+				b_staryatoropa = {
+				}
+			}
+			c_izborsk = {
+				color={ 160 180 120 }
+				color2={ 255 255 255 }
+				
+				b_izborsk = {
+				}
+				b_pechory = {
+				}
+				b_khokhly = {
+				}
+				b_rodovoye = {
+				}
+				b_tupy = {
+				}
+				b_kamno = {
+				}
+				b_poleny = {
+				}
+			}
+		}
+		
+		d_chud = {
+			color = { 136 166 140 }
+			color2={ 255 215 0 }
+			c_rusa = {
+				color={ 139 156 96 }
+				color2={ 255 255 255 }
+				
+				b_rusa = {
+				}
+				b_poddorye = {
+				}
+				b_ramushevo = {
+				}
+				b_lyublino = {
+				}
+				b_peregino = {
+				}
+				b_belebelka = {
+				}
+				b_korchevka = {
+				}
+			}			
+			c_vodi = {
+				color={ 113 0 0 }
+				color2={ 255 255 255 }
+
+				b_nyen = {
+				}
+				b_noteborg = {
+				}
+				b_kingisepp = {
+				}
+				b_jogopera = {
+				}
+				b_ivanovskaya = { # Teusina
+				}
+				b_nosok = {
+				}
+				b_liivtsula = {
+				}
+				b_khotchino = {
+				}
+			}
+			c_dorpat = {		
+				color={ 115 5 5 }
+				color2={ 255 255 255 }
+			
+				b_tartu = {
+				}
+				b_jarva = {
+				}
+				b_fellin = {
+				}
+				b_odenpah = {
+				}
+				b_lais = {
+				}
+				b_vastseliina = {
+				}
+				b_kirrumpa = {
+				}
+				b_vanakastre = {
+				}
+			}
+			c_jarva = {
+				color={ 98 40 40 }
+				color2={ 255 255 255 }
+				b_viljandi = {
+				}
+				b_alempois = {
+				}
+				b_vaiga = {
+				}
+				b_mohu = {
+				}
+				b_nurmekund = {
+				}
+				b_jogentagana = {
+				}
+				b_sackal = {
+				}
+			}
+			c_bezhetsky_verh = {
+				color={ 144 161 101 }
+				color2={ 255 255 255 }
+									
+				b_ladoga = {
+				}
+				b_lyuban = {
+				}
+				b_tosno = {
+				}
+				b_vyritsa = {
+				}
+				b_kirovsk = {
+				}
+				b_naziya = {
+				}
+				b_novinka = {
+				}
+			}
+		}
+		d_riga = {
+		color = { 136 166 140 }
+		color2={ 255 215 0 }
+		
+			c_west_dvina = {			
+				color={ 125 18 18 }
+				color2={ 255 255 255 }
+			
+				b_erle = {
+				}
+				b_kreuzburg = {
+				}
+				b_daugavpils = {
+				}
+				b_balvi = {
+				}
+				b_rezekne = {
+				}
+				b_kraslava = {
+				}
+				b_vilaka = {
+				}
+				b_varakjani = {
+				}
+				b_ludza = {
+				}
+			}
+			c_jersika = {
+				color={ 125 36 12 }
+				color2={ 255 255 255 }			
+				b_jersika = {
+				}
+				b_koknese = {
+				}
+				b_alene = {
+				}
+				b_marciena = {
+				}
+				b_negeste = {
+				}
+				b_asote = {
+				}
+				b_autine = {
+				}
+			}
+			c_talava = {
+				color={ 125 60 12 }
+				color2={ 255 255 255 }
+			
+				b_satekle = {
+				}
+				b_metsene = {
+				}
+				b_trikata = {
+				}
+				b_gulbene = {
+				}
+				b_aluksne = {
+				}
+				b_imera = {
+				}
+				b_vijciems = {
+				}
+			}
+			c_riga = {
+				color={ 100 50 50 }
+				color2={ 255 255 255 }
+				
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
+				
+				b_riga = {
+				}
+				b_ledurga = {
+				}
+				b_salaspils = {
+				}
+				b_sigulda = {
+				}
+				b_ikskile = {
+				}
+				b_turaida = {
+				}
+				b_ropazi = {
+				}
+			}
+		}
+	}
+	k_lithuania = {
+	color={ 8 119 114 }
+	color2={ 255 255 255 }	
+	
+	d_vilnus = {
+			color = { 136 166 140 }
+			color2={ 255 215 0 }
+			
+			c_aukshayts = {				
+				color={ 146 17 17 }
+				color2={ 255 255 255 }
+
+				b_vilnius = {
+				}
+				b_trakai = {
+				}
+				b_kreva = {
+				}
+				b_alsenai = {
+				}
+				b_asmena = {
+				}
+				b_eliskes = {
+				}
+				b_medininkai = {
+				}
+			}
+			c_nalsia = {		
+				color={ 135 22 22 }
+				color2={ 255 255 255 }
+			
+				b_utena = {
+				}
+				b_svencionys = {
+				}
+				b_kernave = {
+				}
+				b_nemencine = {
+				}
+				b_ukmerge = {
+				}
+				b_anyksciai = {
+				}
+				b_nerisia	= {		
+				}
+			}			
+			c_selija = {	
+				color={ 180 30 30 }
+				color2={ 255 255 255 }
+
+				b_selpils = {
+				}
+				b_dignaja = {
+				}
+				b_dubenou = {
+				}
+				b_rackiska = {
+				}
+				b_lichsta = {
+				}
+				b_rurezeme = {
+				}
+				b_ozikel = {
+				}
+				b_varviai = {
+				}
+			}
+			c_yatvyagi = {			 
+				color={ 127 69 20 }
+				color2={ 255 255 255 }
+				
+				polish = "Kowno"
+				
+				b_kaunas = {
+					polish = "Kowno"
+				}
+				b_darsuniskis = {
+				}
+				b_alytus = {
+				}
+				b_birstonas = {
+				}
+				b_vilkaviskis = {
+				}
+				b_raiziai = {
+				}
+				b_gailen = {
+				}
+			}
+		}
+			d_prussia = {
+			color = { 136 166 140 }
+			color2={ 255 215 0 }
+
+			c_sudovia = {			
+				color={ 146 21 21 }
+				color2={ 255 255 255 }
+			
+				b_merkine = {
+				}
+				b_rudamina = {
+				}
+				b_liskiava = {
+				}
+				b_hrodna = {
+				}
+				b_suvalkai = {
+				}
+				b_augustavas = {
+				}
+				b_seiniai = {
+				}
+			}
+			c_galindia = {
+				color={ 185 90 90 }
+				color2={ 255 255 255 }
+					
+				b_angerburg = {
+				}
+				b_osterode = {
+				}
+				b_nikelshagen = {
+				}
+				b_gilgenburg = {
+				}
+				b_treuburg = {
+				}
+				b_hohenstein = {
+				}
+				b_neidenburg = {
+				}
+				b_wielbark = {
+				}
+			}
+			
+			c_chelminskie = {
+				color={ 170 70 70 }
+				color2={ 255 255 255 }
+
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
+				
+				b_chelmno = {
+				}
+				b_kulm = {
+				}
+				b_thorn = {
+				}
+				b_niedenburg = {
+				}
+				b_rehden = {
+				}
+				b_lobau = {
+				}
+				b_eylau = {
+				}
+				b_briesen = {
+				}
+			}
+			
+			c_marienburg = {
+				color={ 185 90 90 }
+				color2={ 255 255 255 }
+					
+				b_marienburg = {
+				}
+				b_braunsberg = {
+				}
+				b_elbing = {
+				}
+				b_christburg = {
+				}
+				b_heilsberg = {
+				}
+				b_bartenstein = {
+				}
+				b_marienwerder = {
+				}
+				b_balga = {
+				}
+			}
+		}
+			d_old_lithuania = {
+			color = { 136 166 140 }
+			color2={ 255 215 0 }
+			
+			c_deltuva = {		
+				color={ 135 30 30 }
+				color2={ 255 255 255 }
+			
+				b_deltuva = {
+				}
+				b_upyte = {
+				}
+				b_ariogala = {
+				}
+				b_betygala = {
+				}
+				b_junigeda = {
+				}
+				b_velluona = {
+				}
+				b_siauliai = {
+				}
+			}
+			c_tukums = {
+				color={ 100 50 75 }
+				color2={ 255 255 255 }
+				
+				b_tukums = {
+				}
+				b_dundaga = {
+				}
+				b_kandava = {
+				}
+				b_sabile = {
+				}
+				b_talsi = {
+				}
+				b_kayeva = {
+				}
+				b_bulla = {
+				}
+			}
+				c_zhmud = { 
+				color={ 166 81 81 }
+				color2={ 255 255 255 }
+				dignity = 1		
+				b_jurbarkas = {
+				}
+				b_raseiniai = {
+				}
+				b_zarenai = {
+				}
+				b_tverai = {
+				}
+				b_kraziai = {
+				}
+				b_knituva = {
+				}
+				b_siautuna = {
+				}
+			}
+			c_kurs = {
+				color={ 182 24 24 }
+				color2={ 255 255 255 }
+
+				b_grobin = {
+				}
+				b_medze = {
+				}
+				b_vartaja = {
+				}
+				b_kuldiga = {
+				}
+				b_aizpute = {
+				}
+				b_apule = {
+				}
+				b_impilte = {
+				}
+			}
+			c_vanema = {
+				color={ 182 40 40 }
+				color2={ 255 255 255 }
+				
+				b_vanema = {
+				}
+				b_matkule = {
+				}
+				b_lagzdene = {
+				}
+				b_piltyn = {
+				}
+				b_rumen = {
+				}
+				b_talsen = {
+				}
+				b_ventspils = {
+				}
+			}
+		}
+	}
+			k_pomerania = {
+			color={ 8 119 114 }
+			color2={ 255 255 255 }	
+	
+			d_pomerania = {
+			color = { 136 166 140 }
+			color2={ 255 215 0 }
+			c_bytow = {
+				color={ 5 133 25 }
+				color2={ 255 255 255 }
+				
+				b_bytow = {
+				}
+				b_lebork = {
+				}
+				b_lupawa = {
+				}
+				b_lebe = {
+				}
+				b_carbero = {
+				}
+				b_swolow = {
+				}
+				b_parchowy = {
+				}
+			}
+			c_slupsk = {
+				color={ 6 155 25 }
+				color2={ 255 255 255 }
+			
+				b_rugenwalde = {
+				}
+				b_slupsk = {
+				}
+				b_colberg = {
+				}
+				b_schlawe = {
+				}
+				b_corlin = {
+				}
+				b_gerwin = {
+				}
+				b_ustka = {
+				}
+				b_belgard = {
+				}
+			}
+			c_danzig = {
+				color={ 115 139 70 }
+				color2={ 255 255 255 }
+			
+				b_puck = {
+				}
+				b_danzig = {
+				}
+				b_oliva = {
+				}
+				b_tuchel = {
+				}
+				b_schwetz = {
+				}
+				b_danlauenburg = {
+				}
+				b_mewe = {
+				}
+				b_schlochau = {
+				}
+			}
+			c_neumark = {
+				color={ 91 143 40}
+				color2={ 255 255 255 }
+			
+				b_santok = {
+				}
+				b_driesen = {
+				} 
+				b_bernstein = {
+				}
+				b_dramburg = {
+				}
+				b_tempelburg = {
+				}
+				b_schivelbein = {
+				}
+				b_drawa = {
+				}
+			}
+			c_stettin = {
+				color={ 91 163 48 }
+				color2={ 255 255 255 }
+				
+				pommeranian = Szczecin
+			
+				b_soldin = {
+				}
+				b_stettin = {
+
+					pommeranian = Szczecin
+				}
+				b_wollin = {
+				} 
+				b_stargard = {
+				}
+				b_kammin = {
+				}
+				b_kolbatz = {
+				}
+				b_cedene = {
+				}
+				b_pyritz = {
+				}
+			}
+		}
+			d_polonia = {
+			color = { 136 166 140 }
+			color2={ 255 215 0 }
+			
+			c_gnieznienskie = {			
+				color={ 125 6 2 }
+				color2={ 255 255 255 }
+			
+				b_naklo = {
+				}
+				b_kamien = {
+				}
+				b_kcynia = {
+				}
+				b_pila = {
+				}
+				b_lubiewo = {		
+				}
+				b_podgaje = {		
+				}
+				b_bialaziema = {
+				}
+			}
+			c_dobrzynska = {		
+				color={ 200 60 20 }
+				color2={ 255 255 255 }
+			
+				b_dobrzyn = {
+				}
+				b_wloclawek = {
+				}
+				b_lipno = {
+				}
+				b_rypin = {
+				}
+				b_skepe = {
+				}
+				b_michalowo = {
+				}
+				b_kikot = {
+				}
+			}
+			c_lubusz = {
+				color={ 135 30 30 }
+				color2={ 255 255 255 }
+				
+				b_lubusz = {
+				}
+				b_mysliborz = {
+				}
+				b_kostrzyn = {
+				}
+				b_cedynia = {
+				}
+				b_pryzyce = {
+				}
+				b_sulecin = {
+				}
+				b_sulecia = {		
+				}
+				b_nadodra = {		
+				}
+			}	
+		}	
+	}	
+}	

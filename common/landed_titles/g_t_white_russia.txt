@@ -1,0 +1,537 @@
+	e_white_russia = {
+	color={ 223 202 145 }
+	color2={ 255 255 255 }
+	
+	k_white_russia = {
+	color={ 8 119 114 }
+	color2={ 255 255 255 }	
+	
+	d_polesia = {
+			color = { 136 166 140 }
+			color2={ 255 215 0 }
+			
+			c_beresty = {
+				color={ 204 175 111 }
+				color2={ 255 255 255 }
+				
+				polish = "Brzesc"
+	
+				b_beresty = {
+				}
+				b_bielsk = {
+				}
+				b_kobryn = {
+				} 
+				b_kamyanyets = {
+				}
+				b_mielnik = {
+				}
+				b_koden = {
+				}
+				b_wlodawa = {
+				}
+				b_parwa = {			#fictional
+				}
+			}
+			
+			c_volkovysk = {
+				color={ 110 145 70 }
+				color2={ 255 255 255 }
+				
+				b_volkovysk = {
+				}
+				b_klotsk = {
+				}
+				b_ouslonim = {
+				}
+				b_studzieniki = {
+				}
+				b_ruzhany = {
+				}
+				b_zyrovichy = {
+				}
+				b_lyakhavichy = {
+				}
+			}
+			
+			c_pinsk = {
+				color={ 120 155 80 }
+				color2={ 255 255 255 }
+				
+				b_pinsk = {
+				}
+				b_ivanava = {
+				}
+				b_luninets = {
+				}
+				b_drahichyn = {
+				}
+				b_biaroza = {
+				}
+				b_hantsavichy = {
+				}
+				b_motal = {
+				}
+			}
+			
+			c_slutsk = {
+				color={ 130 165 70 }
+				color2={ 255 255 255 }
+				
+				b_slutsk = {
+				}
+				b_gomel = {
+				}
+				b_mazyr = {
+				}
+				b_rechytsa = {
+				}
+				b_zhytkavichy = {
+				}
+				b_loyew = {
+				}
+				b_kazlovichy = {
+				}
+			}
+			
+			c_breda = {
+				color={ 234 145 54 }
+				color2={ 255 255 255 }
+			
+				b_breda = {
+				}
+				b_shertogenbosch = {
+				}
+				b_tilburg = {
+				}
+				b_willemstad = {
+				}
+				b_bergenopzoom = {
+				}
+				b_cuijck = {
+				}
+				b_ravenstein = {
+				}
+				b_horn = {
+			}
+		}
+	}
+	
+	d_minsk = {
+	color={ 223 202 145 }
+	color2={ 255 255 255 }
+			c_jacwiez = { # Grodno
+				color={ 141 32 30 }
+				color2={ 255 255 255 }
+			
+				b_jacwiez = {
+				}
+				b_novogrudok = {
+				}
+				b_grodno = {
+				}
+				b_iuje = {
+				}
+				b_skidziel = {
+				}
+				b_mir = {
+				}
+				b_niasvizh = {
+				}
+				b_zirmuny = {
+				}
+			}				
+			c_novogrodek = {
+				color={ 70 95 2 }
+				color2={ 255 255 255 }
+				
+				b_novogrodek = {
+				}
+				b_slonim = {
+				}
+				b_lida = {
+				}
+				b_karelichy = {
+				}
+				b_shchuchyn = {
+				}
+				b_iwie = {
+				}
+				b_dziatlava = {
+				}
+			}
+			c_minsk = {
+				color={ 60 105 2 }
+				color2={ 255 255 255 }
+				
+				b_minsk = {
+				}
+				b_zaslawye = {
+				}
+				b_lahoysk = {
+				}
+				b_barysaw = {
+				}
+				b_koidanova = {
+				}
+				b_maryina_horka = {
+				}
+				b_nyasvizh = {
+				}
+			}
+			c_drutsk = {
+				color={ 70 130 5 }
+				color2={ 255 255 255 }
+				
+				b_drutsk = {
+				}
+				b_bialocerkev = {
+				}
+				b_rahachow = {
+				}
+				b_mogilev = {
+				}
+				b_zhlobin = {
+				}
+				b_babruysk = {
+				}
+				b_dashkovka = {
+				}
+			}
+			c_lepiel = {
+				color={ 125 24 24 }
+				color2={ 255 255 255 }
+
+				b_lukoml = {
+				}
+				b_dokshytsy = {
+				}
+				b_lepiel = {
+				}
+				b_novalukoml = {
+				}
+				b_ushachy = {
+				}
+				b_hlybokaye = {
+				}
+				b_sharkawshchyna = {
+				}
+			}
+			}
+			d_polotzk = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+	
+			c_mstislavl = {
+				color={ 232 247 188 }
+				color2={ 255 255 255 }
+					
+				b_mstitslavl = {
+				}
+				b_krychaw = {
+				}
+				b_propoysk = {
+				}
+				b_rahacou = {
+				}
+				b_chachersk = {
+				}
+				b_horki = {
+				}
+				b_drybin = {
+				}
+			}
+			c_polotsk = {
+				color={ 125 14 14 }
+				color2={ 255 255 255 }
+			
+				b_polotsk = {
+				}
+				b_haradok = {
+				}
+				b_rassony = {
+				}
+				b_obol = {
+				}
+				b_douza = {
+				}
+				b_sirotino = {
+				}
+				b_leskovichi = {
+				}
+			}
+			c_orsha = {
+				color={ 79 135 16 }
+				color2={ 255 255 255 }
+				
+				b_orsha = {
+				}
+				b_talachyn = {
+				}
+				b_dubrowna = {
+				}
+				b_baran_orsha = {
+				}
+				b_shklow = {
+				} 
+				b_krugale = {
+				}
+				b_zheleznyaki = {
+				}
+			}
+			c_vitebsk = {
+				color={ 75 125 6 }
+				color2={ 255 255 255 }
+				
+				b_vitebsk = {
+				}
+				b_sianno = {
+				}
+				b_beshankovichy = {
+				}
+				b_liozna = {
+				}
+				b_boguchevsk = {
+				}
+				b_ruba = {
+				}
+				b_bilieva = {
+				}
+			}			
+			}
+			}
+			k_smolensk = {
+			color={ 8 119 114 }
+			color2={ 255 255 255 }	
+			
+			d_smolensk = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+				c_bryansk = {
+				color = { 160 175 40 }
+				color2={ 255 255 255 }
+
+				holy_site = baltic_pagan
+				holy_site = baltic_pagan_reformed
+				
+				b_bryansk = {
+				}
+				b_pochep = {
+				}
+				b_trubetsk = {
+				}
+				b_suponevo = {
+				}
+				b_kokino = {
+				}
+				b_vygonichi = {
+				}
+				b_bezichi = {
+				}
+			}
+			c_roslavl = {
+				color={ 239 242 185 }
+				color2={ 255 255 255 }
+					
+				b_roslavl = {
+				}
+				b_pochinok = {
+				}
+				b_chocimsk = {
+				}
+				b_aleksandr = { #Fictional, for prosperity
+				}
+				b_vugimsk = { #Fictional, for prosperity
+				}
+				b_imaslavl = { #Fictional, for prosperity
+				}
+				b_kankol = { #Fictional, for prosperity
+				}
+			}
+			c_vyazma = {
+				color={ 175 189 131 }
+				color2={ 255 255 255 }
+					
+				b_vyazma = {
+				}
+				b_yelnya = {
+				}
+				b_dorogobyzh = {
+				}
+				b_ignatkovo = {
+				}
+				b_tesnoye = {
+				}
+				b_safonovo = {
+				}
+				b_mokhnatka = {
+				}
+			}			
+			c_smolensk = {
+				color={ 229 244 185 }
+				color2={ 255 255 255 }
+					
+				b_smolensk = {
+				}
+				b_gnyozdovo = {
+				}
+				b_krasny = {
+				}
+				b_velizh = {
+				}
+				b_yartsevo = {
+				}
+				b_netrizovo = {
+				}
+				b_ray = {
+				}
+			}			
+			}
+			d_bryansk = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+		
+			c_kromy = {
+				color={ 164 179 49 }
+				color2={ 255 255 255 }
+				
+				b_kromy = {
+				}
+				b_sevsk = {
+				}
+				b_dmitrievka = {
+				}
+				b_navlya = {
+				}
+				b_lokot = {
+				}
+				b_nechayeva = {
+				}
+				b_sakovnina = {
+				}
+			}
+			c_karachev = {
+				color={ 165 180 65 }
+				color2={ 255 255 255 }
+				
+				b_karachev = {
+				}
+				b_orel = {
+				}
+				b_bolkhov = {
+				}
+				b_naryshkino = {
+				}
+				b_krasnaya = {
+				}
+				b_khotynets = {
+				}
+				b_ryabinovka = {
+				}
+			}
+			c_kozelsk = {
+				color={ 175 190 75 }
+				color2={ 255 255 255 }
+				
+				b_kozelsk = {
+				}
+				b_mosalsk = {
+				}
+				b_belev = {
+				}
+				b_mezetsk = {
+				}
+				b_serpeisk = {
+				}
+				b_sosensky = {
+				}
+				b_sukhinichi = {
+				}
+			}
+			}
+			d_tver = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+			
+			c_tver = {
+				color={ 172 186 128 }
+				color2={ 255 255 255 }
+					
+				b_tver = {
+				}
+				b_klin = {
+				}
+				b_lotoshino = {
+				}
+				b_puchka = {
+				}
+				b_rodnya = {
+				}
+				b_turayevo = {
+				}
+				b_burashevo = {
+				}
+			}
+			c_zoubtsov = {
+				color={ 220 240 180 }
+				color2={ 255 255 255 }
+				
+				b_zoubtsov = {
+				}
+				b_yesinka = {
+				}
+				b_verigino = {
+				}
+				b_batakovo = {
+				}
+				b_papino = {
+				}
+				b_vysokino = {
+				}
+				b_ulyankovo = {
+				}
+			}
+
+			c_mozhaysk = {
+				color={ 200 225 156 }
+				color2={ 255 255 255 }
+			
+				b_volgamozhaysk = {
+				}
+				b_shakhunya = {
+				}
+				b_yaransk = {
+				}
+				b_vakhtan = {
+				}
+				b_varnavino = {
+				}
+				b_kiknur = {
+				}
+				b_tonshaevo = {
+				}
+				b_uren = {
+				}
+			}
+			c_naro-fominsk = {
+				color={ 210 225 166 }
+				color2={ 255 255 255 }
+				
+				b_naro-fominsk = {
+				}
+				b_lopasnya = {
+				}
+				b_klimovka = {
+				}
+				b_voronovo = {
+				}
+				b_kubinka = {
+				}
+				b_troitsk = {
+				}
+				b_chukovo = {
+				}
+			}
+		}
+	}
+}

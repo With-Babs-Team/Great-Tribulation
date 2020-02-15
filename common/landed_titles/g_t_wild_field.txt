@@ -1,0 +1,470 @@
+	e_wildfield = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+	
+	k_ryazan = {
+	color={ 8 119 114 }
+	color2={ 255 255 255 }	
+	
+d_upper = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+			c_novosil = {
+				color={ 115 130 15 }
+				color2={ 255 255 255 }
+				
+				b_novosil = {
+				}
+				b_kolpna = {
+				}
+				b_strakhovka = {
+				}
+				b_verkhovye = {
+				}
+				b_khomutovo = {
+				}
+				b_pokrovskoye = {
+				}
+				b_livny = {
+				}
+			}
+			c_yelets = {
+				color={ 111 120 55 }
+				color2={ 255 255 255 }
+				
+				b_yelets = {
+				}
+				b_voronej = {
+				}
+				b_zadonsk = {
+				}
+				b_semiuki = {
+				}
+				b_khlevnoye = {
+				}
+				b_dolgorukovo = {
+				}
+				b_terbuny = {
+				}
+			}			
+			c_vorotynsk = {
+				color={ 125 145 50 }
+				color2={ 255 255 255 }
+				
+				b_vorotynsk = {
+				}
+				b_mchensk = {
+				}
+				b_odoyev = {
+				}
+				b_suvorova = {
+				}
+				b_plavsk = {
+				}
+				b_chern = {
+				}
+				b_somovo = {
+				}
+			}
+			c_serpukhov = {
+				color={ 141 159 64 }
+				color2={ 255 255 255 }
+				
+				b_serpukhov = {
+				}
+				b_dugna = {
+				}
+				b_bogucharovo = {
+				}
+				b_novogurovsky = {
+				}
+				b_zaokskiy = {
+				}
+				b_nenashevo = {
+				}
+				b_kolyupanovo = {
+				}
+			}
+			c_kolomna = {
+				color={ 131 149 54 }
+				color2={ 255 255 255 }
+				
+				b_tula = {
+				}
+				b_rostislavl = {
+				}
+				b_veniov = {
+				}
+				b_kochira = {
+				}
+				b_laptevo = {
+				}
+				b_ozherelye = {
+				}
+				b_konchinka = {
+				}
+			}			
+}			
+d_ryazan = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+			c_sarasvata_mandala = {
+				color={ 155 80 20 }
+				color2={ 255 255 255 }
+				
+				b_anahilapataka = {
+				}
+				b_vadnagar = {
+				}
+				b_siddhapura = {
+				}
+				b_kamboika = {
+				}
+				b_modhera = {
+				}
+				b_kheralu = {
+				}
+				b_shertha = {
+				}
+			}
+			c_mordva = {
+				color={ 246 186 25 }
+				color2={ 255 255 255 }
+			
+				b_saransk = {
+				}
+				b_insar = {
+				}
+				b_temnikow = {
+				}
+				b_ardatovo = {
+				}
+				b_krasnoslobodsk = {
+				}
+				b_yalga = {
+				}
+				b_penza = {
+				}
+				b_yavas = {
+				}
+			}
+			c_pronsk = {
+				color={ 101 110 45 }
+				color2={ 255 255 255 }
+	
+				b_pronsk = {
+				}
+				b_skopin = {
+				}
+				b_likharevskoye_gorodishch = {
+				}
+				b_mikhaylov = {
+				}
+				b_pavelets = {
+				}
+				b_oktyabrsky = {
+				}
+				b_gryaznoye = {
+				}
+			}	
+			c_ryazan = {
+				color={ 121 140 50 }
+				color2={ 255 255 255 }
+
+				holy_site = finnish_pagan
+				holy_site = finnish_pagan_reformed
+				
+				b_ryazan = {
+				}
+				b_pereyaslavl_ryazanski = {
+				}
+				b_krasnoye = {
+				}
+				b_lukhovitsy = {
+				}
+				b_rybnoye = {
+				}
+				b_novoselki = {
+				}
+				b_turlatovo = {
+				}
+			}			
+			
+}
+}
+	k_kalmykia = {
+	color={ 8 119 114 }
+	color2={ 255 255 255 }	
+	
+d_lukomorie = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+			
+			c_burtasy = {
+				color={ 243 183 22 }
+				color2={ 255 255 255 }
+			
+				b_saratov = {
+				}
+				b_mechetnaya = {
+				}
+				b_pokrovsk = {
+				}
+				b_atkarsk = {
+				}
+				b_balakova = {
+				}
+				b_sosnovyostrov = {
+				}
+				b_golykaramysh = {
+				}
+				b_rtishchevo = {
+				}
+			}
+			
+			c_holstein = {
+				color={ 219 219 219 }
+				color2={ 255 255 255 }
+				
+				danish = "Holsten"
+				swedish = "Holsten"
+				norwegian = "Holsten"
+
+				old_saxon = Albingia
+
+				b_kiel = {
+				}
+				b_gottorp = {
+				}
+				b_reinholdsburg = {
+				}
+				b_gluckstadt = {
+					danish = "Lykstad"
+					swedish = "Lyckstad"
+					norwegian = "Lykstad"
+					norse = "Lykstad"
+				}
+				b_lauenburg = {
+					danish = "Lauenborg"
+					swedish = "Lauenborg"
+					norwegian = "Lauenborg"
+					norse = "Lauenborg"
+				}
+				b_segeberg = {
+				}
+				b_oldenburg_holstein = {}
+			}
+			
+			c_slesvig = {
+				color={ 225 78 78 }
+				color2={ 255 255 255 }
+				
+				german = "Schleswig"
+			
+				b_flensborg = {
+					german = "Flensburg"
+				}
+				b_ribe = {
+				}
+				b_slesvig = {
+				}
+				b_sonderborg = {
+					swedish = "Sцnderborg"
+					german = "Sonderburg"
+				}
+				b_tonder = {
+				}
+				b_aabenraa = {
+					swedish = "Еbenrе"
+					german = "Apenrade"
+				}
+				b_haderslev = {
+					german = "Hadersleben"
+				}
+				b_kolding = {
+				}
+				b_hedeby = {
+					norse = Heiрabyr
+				}
+			}
+			
+			c_celle = {
+				color={ 198 198 198 }
+				color2={ 255 255 255 }
+
+				old_saxon = Wigmodia
+
+				pagan_coa = {
+					religion = "norse_pagan"
+					template = 0
+					layer = {
+						texture = 11
+						texture_internal = 0
+						emblem = 0
+						color = 13
+						color = 3
+						color = 13
+					}
+				}
+				
+				b_bremen = {
+				}
+				b_celle = {
+				}
+				b_hannover = {
+				}
+				b_herford = {
+				}
+				b_hermannsburg = {
+				}
+				b_ravensberg = {
+				}
+				b_nienburg = {
+				}
+				b_wedemark = {
+				}
+				b_wittingen = {
+				}
+			}
+	}
+d_kalmykia = {
+			color={ 223 202 145 }
+			color2={ 255 255 255 }
+			
+			c_khopyor = {
+				color={ 238 202 107 }
+				color2={ 255 255 255 }
+			
+				b_khopyorsk = {
+				}
+				b_borisoglebsk = {
+				}
+				b_tambov = {
+				} 
+				b_uryupin = {
+				}
+				b_balashov = {
+				}
+				b_kirsanov = {
+				}
+				b_ustmedveditskaya = {
+				}
+				b_uvarovo = {
+				}
+			}
+			
+			c_don_portage = {
+				color={ 246 210 115 }
+				color2={ 255 255 255 }
+			
+				b_kalach = {
+				}
+				b_illovlya = {
+				}
+				b_ryumino = {
+				}
+				b_loq = {
+				}
+				b_illevka = {
+				}
+				b_donskoy = {
+				}
+				b_tary = {
+				}
+				b_ozerki = {
+				}
+			}
+			
+			c_luneburg = {
+				color={ 195 195 195 }
+				color2={ 255 255 255 }
+
+				old_saxon = Bardengawi
+				
+				b_luneburg = {
+				}
+				b_bardowick = {
+				}
+				b_gifhorn = {
+				}
+				b_evern = {
+				}
+				b_reppenstedt = {
+				}
+				b_ludersburg = {
+				}
+				b_thomasburg = {
+				}
+				b_uelzen = {
+				}
+			}
+			
+			c_bordeaux = {
+				color={ 58 14 247 }
+				color2={ 255 255 255 }
+				
+				b_castillon = {
+				}
+				b_bordeaux = {
+				}
+				b_stemilion = {
+				}
+				b_blaye = {
+				}
+				b_bourg = {
+				}
+				b_lasauve = {
+				}
+				b_lareole = {
+				}
+				b_libourne = {
+				}		
+			}
+			
+						c_lubeck = {
+				color={ 142 142 142 }
+				color2={ 255 255 255 }
+				
+				danish = "Lybжk"
+				swedish = "Lybдck"
+				norwegian = "Lybжk"
+				norse = "Lybжck"
+				pommeranian = "Liubice"
+				polish = "Liubice"
+				bohemian = "Liubice"
+				prussian = "Liubice"
+				old_saxon = "Liubice"
+				
+				b_lubeck = {
+					danish = "Lybжk"
+					swedish = "Lybдck"
+					norwegian = "Lybжk"
+					norse = "Lybжck"
+					pommeranian = "Liubice"
+					polish = "Liubice"
+					bohemian = "Liubice"
+					prussian = "Liubice"
+					old_saxon = "Liubice"
+				}
+				b_ratzeburg = {
+					danish = "Ratseborg"
+					swedish = "Ratseborg"
+					norse = "Ratseborg"
+					norwegian = "Ratseborg"
+				}
+				b_travemunde = {
+				}
+				b_wulfsdorf = {
+				}
+				b_schlutup = {
+				}
+				b_starigard = {
+				}
+				b_weslo = {
+				}
+				b_bucu = {
+				}
+			}
+}
+}
+}
